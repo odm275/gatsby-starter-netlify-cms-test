@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/earth-rise.jpg
+image: /img/broadway-boogie-woogie-1943-piet-mondrian.jpg
 heading: Earth Rise
 subheading: We are one
 mainpitch:
